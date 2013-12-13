@@ -1,0 +1,6 @@
+/Users/strongworkandrewchung/Projects/AaronProject4/AaronProject4/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/strongworkandrewchung/Projects/AaronProject4/AaronProject4/bin/Debug/RestSharp.dll
+/Users/strongworkandrewchung/Projects/AaronProject4/AaronProject4/bin/Debug/AaronProject4.exe.mdb
+/Users/strongworkandrewchung/Projects/AaronProject4/AaronProject4/bin/Debug/AaronProject4.exe
+/Users/strongworkandrewchung/Projects/AaronProject4/AaronProject4/obj/x86/Debug/AaronProject4.exe
+/Users/strongworkandrewchung/Projects/AaronProject4/AaronProject4/obj/x86/Debug/AaronProject4.exe.mdb
